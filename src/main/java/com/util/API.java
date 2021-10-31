@@ -24,6 +24,7 @@ import java.util.Map;
 public class API {
     //// Constants ////
     private static final String apiPath = "https://kemukupu.com/api/v1";
+    // private static final String apiPath = "http://localhost:8000/api/v1";
 
     //// Properties ////
 

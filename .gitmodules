@@ -1,6 +1,6 @@
-[submodule "api"]
-	path = api
-	url = https://github.com/JosiahBull/api/
 [submodule "website"]
 	path = website
-	url = https://github.com/JosiahBull/website
+	url = https://github.com/kemukupu/website
+[submodule "api"]
+	path = api
+	url = https://github.com/kemukupu/api
